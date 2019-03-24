@@ -646,6 +646,16 @@ pre code {
   max-width: 33.333333%;
 }
 
+.visao{
+  position: relative;
+  left: 150px;
+}
+
+.valores{
+  position: relative;
+  left: 300px;
+}
+
 .col-5 {
   -ms-flex: 0 0 41.666667%;
   flex: 0 0 41.666667%;
